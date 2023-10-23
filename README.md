@@ -85,7 +85,7 @@ We welcome contributions from the community. To contribute to this project, plea
 
 ## Authors
 
-- [Your Name](https://github.com/johurul000)
+- [Johurul Hassan Maz.](https://github.com/johurul000)
 
 ## Acknowledgments
 
